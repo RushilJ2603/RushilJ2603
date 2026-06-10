@@ -18,7 +18,7 @@ I am an Electronics and Communication Engineering student (Minor in Computer Sci
 
 ---
 
-### 💻 Technical Arsenal
+### 💻 Technical knowledge
 
 * **Software Engineering & AI:** C++, Python, Scikit-learn, OpenCV, MediaPipe
 * **Backend & Databases:** PostgreSQL, PL/pgSQL, Relational Schema Design, Complex Query Optimization (Recursive CTEs)
